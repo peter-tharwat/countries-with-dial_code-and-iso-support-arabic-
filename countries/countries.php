@@ -1624,7 +1624,7 @@
         "name" => "Mauritania",
         "name_ar" => "موريتانيا",
         "dial_code" => "+222",
-        "currency" => "MRO",
+        "currency" => "MRU",
         "iso2" => "MR",
         "iso3" => "MRT",
         "is_arabian_country" => true,
